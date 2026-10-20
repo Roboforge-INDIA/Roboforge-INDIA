@@ -27,8 +27,8 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project Alpha]** | An autonomous mobile robot (AMR) navigation framework. | ROS2, Python, C++ | [Documentation](https://roboforge-india.com) • [GitHub](https://github.com/) |
-| **[Project Beta]** | Custom open-source robotic arm controller. | Arduino, C++, ESP32 | [Documentation](https://roboforge-india.com) • [GitHub](https://github.com/) |
+| **[Project Alpha]** | An autonomous mobile robot (AMR) navigation framework. | ROS2, Python, C++ | [Website](https://roboforge-india.ai.studio/) • [GitHub](https://github.com/) |
+| **[Project Beta]** | Custom open-source robotic arm controller. | Arduino, C++, ESP32 | [Website](https://roboforge-india.ai.studio/) • [GitHub](https://github.com/) |
 
 ---
 
@@ -48,10 +48,10 @@
 ### 🌐 Connect With Us
 
 <p align="left">
-  <a href="https://roboforge-india.com" target="_blank">
+  <a href="https://roboforge-india.ai.studio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@Roboforge-INDIA" target="_blank">
+  <a href="https://www.youtube.com/channel/UCRouE0ZArZIA_mHjP6nndvQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
